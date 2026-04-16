@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -sL \"https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js\" -o \"d:/Mega/Assai/Dia do Sol/Github/promo_dia_do_sol/js/html2canvas.min.js\")"
+    ]
+  }
+}

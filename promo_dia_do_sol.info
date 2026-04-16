@@ -1,0 +1,18 @@
+name = Promo Dia do Sol
+description = Tema promocional - Ação "Quantos Sóis Você Já Viveu?" - Assaí Atacadista
+core = 7.x
+version = 1.0
+
+; Herda do tema base do site (ajustar conforme o tema principal)
+; base theme = TEMA_BASE_AQUI
+
+stylesheets[all][] = css/style.css
+
+scripts[] = js/html2canvas.min.js
+scripts[] = js/app.js
+
+regions[content] = Content
+
+; Desabilita componentes desnecessários do Drupal para esta LP
+features[] = logo
+features[] = name
